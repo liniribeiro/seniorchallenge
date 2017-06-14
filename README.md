@@ -29,5 +29,5 @@ seu software para garantir que ele se comporta da forma esperada, antes de envia
 • O desafio será executado na última versão do Wildfly;
 • A interface de comunicação com o robô é REST; 
 
-## GIF do serviço sendo executado pelo PostMan
+## GIF do serviço sendo executado pelo Postman
 ![postman](https://user-images.githubusercontent.com/10133177/27118039-c443bffe-50af-11e7-81ef-9fad57c069d5.gif)
