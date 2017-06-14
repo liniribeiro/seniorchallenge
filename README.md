@@ -1,6 +1,6 @@
 ## Sinopse
 
-Este projeto é um desafio de projramação que tem a finalidade de demonstrar sua experiência e conhecimento como desenvolvedor Java.
+Este projeto é um desafio de programação que tem a finalidade de demonstrar minha experiência e conhecimento como desenvolvedora Java.
 
 ## Desafio
 Um time de robôs devem ser colocados pela NASA para explorar um terreno em Marte. Esse terreno, que é retangular, precisa ser navegado pelos robôs de
