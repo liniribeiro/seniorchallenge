@@ -16,18 +16,19 @@ Escreva um programa que permita aos engenheiros da NASA enviar comandos para o R
 seu software para garantir que ele se comporta da forma esperada, antes de enviar o Robô para marte. 
 
 ## Requisitos do Desafio
-• O terreno deverá ser iniciado com 5x5 posições;
-• O robô inicia na coordenada (0,0,N);
-• Deverá ser possível enviar um comando para o Robô que me retorne a posição final dele;
-• O Robô não pode se movimentar para fora da área especificada;
-• Não deve guardar estado do robô para consulta posterior; 
+
+ * O terreno deverá ser iniciado com 5x5 posições;
+ * O robô inicia na coordenada (0,0,N);
+ * Deverá ser possível enviar um comando para o Robô que me retorne a posição final dele;
+ * O Robô não pode se movimentar para fora da área especificada;
+ * Não deve guardar estado do robô para consulta posterior; 
 
 ## Requisitos técnicos
- • O desafio deve ser entregue escrito em Java;
- • O projeto deverá ser compilado utilizando somente o Maven;
- • Deverão ser utilizadas apenas as biblioteca do JEE e JUnit;
- • O desafio será executado na última versão do Wildfly;
- • A interface de comunicação com o robô é REST; 
+ * O desafio deve ser entregue escrito em Java;
+ * O projeto deverá ser compilado utilizando somente o Maven;
+ * Deverão ser utilizadas apenas as biblioteca do JEE e JUnit;
+ * O desafio será executado na última versão do Wildfly;
+ * A interface de comunicação com o robô é REST; 
 
 ## GIF do serviço sendo executado pelo Postman
 ![postman](https://user-images.githubusercontent.com/10133177/27118039-c443bffe-50af-11e7-81ef-9fad57c069d5.gif)
