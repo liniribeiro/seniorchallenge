@@ -23,11 +23,11 @@ seu software para garantir que ele se comporta da forma esperada, antes de envia
 • Não deve guardar estado do robô para consulta posterior; 
 
 ## Requisitos técnicos
-• O desafio deve ser entregue escrito em Java;
-• O projeto deverá ser compilado utilizando somente o Maven;
-• Deverão ser utilizadas apenas as biblioteca do JEE e JUnit;
-• O desafio será executado na última versão do Wildfly;
-• A interface de comunicação com o robô é REST; 
+ • O desafio deve ser entregue escrito em Java;
+ • O projeto deverá ser compilado utilizando somente o Maven;
+ • Deverão ser utilizadas apenas as biblioteca do JEE e JUnit;
+ • O desafio será executado na última versão do Wildfly;
+ • A interface de comunicação com o robô é REST; 
 
 ## GIF do serviço sendo executado pelo Postman
 ![postman](https://user-images.githubusercontent.com/10133177/27118039-c443bffe-50af-11e7-81ef-9fad57c069d5.gif)
